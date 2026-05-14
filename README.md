@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/SamuelOliveraSouza">
-    <img src="https://img.shields.io/badge/GitHub-SamuelOliveiraSouza-181717?style=for-the-badge&logo=github&link=https://github.com/SamuelOliveraSouza" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/s_souza__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
