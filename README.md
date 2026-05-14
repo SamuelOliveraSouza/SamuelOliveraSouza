@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-s_souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-oliveira-a625382b5/">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
   </a>
   <a href="https://www.youtube.com/@oreidosites">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -44,19 +44,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Status GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
 
 ---
 
