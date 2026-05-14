@@ -8,14 +8,14 @@
 ## 🌐 Minhas Redes Sociais
 
 <p align="left">
-  <a href="https://github.com/SamuelOliveiraSouza">
-    <img src="https://img.shields.io/badge/GitHub-SamuelOliveiraSouza-181717?style=for-the-badge&logo=github" />
+  <a>
+    <img src="https://img.shields.io/badge/GitHub-SamuelOliveiraSouza-181717?style=for-the-badge&logo=github&link=https://github.com/SamuelOliveraSouza" />
   </a>
-  <a href="https://instagram.com/s_souza__">
-    <img src="https://img.shields.io/badge/Instagram-s_souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a>
+    <img src="https://img.shields.io/badge/Instagram-s_souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/s_souza__/" />
   </a>
-  <a href="https://www.linkedin.com/in/samuel-oliveira-a625382b5/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
+  <a>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-oliveira-a625382b5/" />
   </a>
 </p>
 
