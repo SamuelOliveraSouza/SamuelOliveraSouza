@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-s_souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-oliveira-a625382b5/">
-    <img src="https://img.shields.io/badge/-Samuel-Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
+    <img src="https://img.shields.io/badge/-LinkedIn-Samuel-Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
   </a>
 </p>
 
