@@ -15,10 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-s_souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-oliveira-a625382b5/">
-    <img src="https://img.shields.io/badge/-Samuel-Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Samuel-Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
   </a>
 </p>
 
