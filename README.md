@@ -39,17 +39,5 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 Status GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelOliveraSouza&show_icons=true&theme=tokyonight&count_public=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveraSouza&layout=compact&theme=tokyonight" />
-</p>
 
 
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
